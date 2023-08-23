@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class DoorManager : MonoBehaviour
+public class LevelManager : MonoBehaviour
 {
     public string scenename;
     void OnCollisionEnter2D(Collision2D other)

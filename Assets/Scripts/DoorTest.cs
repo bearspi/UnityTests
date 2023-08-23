@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class pipi : MonoBehaviour
+public class DoorTest : MonoBehaviour
 {
     public float DoorUpAmount;
     private bool PlayerCloseEnough;
